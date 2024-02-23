@@ -1,22 +1,3 @@
-/*import 'package:flutter/material.dart';
-
-class SecurityPage extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Center(
-      child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          Icon(Icons.security, size: 100),
-          SizedBox(height: 16),
-          Text('Security Information'),
-          SizedBox(height: 16),
-          Text('Dummy data or widgets can be added here.'),
-        ],
-      ),
-    );
-  }
-}*/
 import 'package:flutter/material.dart';
 
 class SecurityPage extends StatefulWidget {
